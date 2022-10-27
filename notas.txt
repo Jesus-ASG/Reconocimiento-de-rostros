@@ -1,0 +1,14 @@
+sudo apt install dlib para instalar dlib en linux y que corra face-recognition
+
+instalar face recognition puede llevar un buen rato
+
+crear entorno virtual e instalar paquetes con
+pip install -r requirements.txt, sólo en linux porque el dlib no se va a poder instalar en windows
+
+Instalación de paquetes normalmente:
+pip install openvc-python
+pip install opencv-contrib-python
+pip install face-recognition
+
+basado de:
+https://www.youtube.com/watch?v=eBYlOGRUsCw 
